@@ -10,8 +10,6 @@
 
 ## 💁🏻‍♀️ 개발 목적
 
----
-
 ‘Job히다’는 모든 취준생을 위한 **단순하고 직관적인 UI로 채용공고과 기업정보를 제공**하는 사이트입니다.
 
 잡코리아, 사람인과 같은 사이트에서 채용정보를 찾다보면 각종 프리미엄이나 파워링크 등의 이름이 붙은 홍보공고나 너무 많은 검색 옵션으로 원하는 채용공고를 찾기 힘들 때가 많다고 느꼈습니다.
@@ -49,32 +47,20 @@
     
 
 ## 📜 주요기능 코드
+<img src="https://user-images.githubusercontent.com/74807487/149926370-ecf99f57-a8ba-4fa3-903e-fe1a2c116116.png" width="750"/>
+<img src="https://user-images.githubusercontent.com/74807487/149926380-154d39ad-5783-49e1-acef-006273471f7d.png" width="750"/>
+<img src="https://user-images.githubusercontent.com/74807487/149926389-2290525c-e5a2-4bff-bb58-f73159f45a10.png" width="750"/>
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db7cc4ff-2549-4a9e-bd54-7a6783544c74/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c16b051c-fae2-46a2-b8ac-5f566ec73fbc/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/537aa69e-240c-40c1-8761-a378bdbf1e4b/Untitled.png)
 
 ## 👀 사이트 화면
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74807487/149926472-1d4f7ad7-6eae-4407-81b5-32221360712e.png" width="530"/>
+<img src="https://user-images.githubusercontent.com/74807487/149926487-974bf851-e9fa-44b4-83f2-b0896f64d992.png" width="470"/>
+<img src="https://user-images.githubusercontent.com/74807487/149926501-cc746496-2d14-47c5-82fa-7e252771bd89.png" width="470" align="right"/>
+<img src="https://user-images.githubusercontent.com/74807487/149926507-877f0c8d-2ed7-4bd1-b331-4d60545bec07.png" width="470"/>
+<img src="https://user-images.githubusercontent.com/74807487/149926515-5c4c2b10-fa3b-42a4-bb1e-530cf8776cbe.png" width="470" align="right"/>
+</p>
 
-![메인0.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5709c853-dccf-4368-8eba-f27ad13f456d/메인0.png)
-
-![마이페이지 - 이력서 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76899e62-56d9-4517-a76f-8a759db526eb/마이페이지22.png)
-
-마이페이지 - 이력서 관리
-
-![마이페이지 - 지원 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6702653e-1b7d-45c0-b899-d3ba81053711/마이페이지33.png)
-
-마이페이지 - 지원 관리
-
-![마이페이지 - 공고 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ce20299-0f4e-480d-a1ea-9eeb50f179be/마이페이지66.png)
-
-마이페이지 - 공고 관리
-
-![마이페이지 - 지원자 현황](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56be237c-f9c0-40eb-b349-5c5137bb4a2e/마이페이지99.png)
-
-마이페이지 - 지원자 현황
 
 ## 💡 개선 사항
 

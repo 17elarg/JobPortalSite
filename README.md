@@ -53,14 +53,14 @@
 
 
 ## 👀 사이트 화면
-<div>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74807487/149926472-1d4f7ad7-6eae-4407-81b5-32221360712e.png" width="530" align="center"/>
 <br>
 <img src="https://user-images.githubusercontent.com/74807487/149926487-974bf851-e9fa-44b4-83f2-b0896f64d992.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/74807487/149926501-cc746496-2d14-47c5-82fa-7e252771bd89.png" width="400" align="right"/>
 <img src="https://user-images.githubusercontent.com/74807487/149926507-877f0c8d-2ed7-4bd1-b331-4d60545bec07.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/74807487/149926515-5c4c2b10-fa3b-42a4-bb1e-530cf8776cbe.png" width="400" align="right"/>
-</div>
+</p>
 <br>
 
 
